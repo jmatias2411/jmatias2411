@@ -47,7 +47,7 @@
 ---
 
 ## 📝 Latest Articles  
-- ✍️ [Cómo nos pueden engañar con los datos: técnicas de manipulación visual y estadística](#)  
+- ✍️ [Cómo nos pueden engañar con los datos: técnicas de manipulación visual y estadística](https://www.linkedin.com/pulse/cómo-nos-pueden-engañar-con-los-datos-técnicas-de-y-palomino-luna-qkhuf/)  
 - 📖 More coming soon...  
 
 ---
