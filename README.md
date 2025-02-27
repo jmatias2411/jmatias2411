@@ -19,6 +19,8 @@
 📩 **Email:** jmatiaspalominoluna@gmail.com  
 🔗 **LinkedIn:** [Matias Palomino Luna](https://www.linkedin.com/in/matias-palomino-luna24/)  
 📊 **Kaggle:** [jesusmatiasp](https://kaggle.com/jesusmatiasp)  
+🤗 **Hugging Face:** [Jmatias2411](https://huggingface.co/Jmatias2411)  
+
 
 ---
 
