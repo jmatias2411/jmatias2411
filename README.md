@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Palomino Luna</h1>
-<h3 align="center">🚀 AI & Big Data Enthusiast | Business Intelligence | Python Developer</h3>
+<h3 align="center">🚀 AI |  Big Data | Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmatias2411&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
