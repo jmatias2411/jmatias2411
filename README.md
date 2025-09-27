@@ -67,7 +67,9 @@ También disfruto **enseñar**: cursos y talleres de **Big Data, Python y Agente
 
 ## 📝 Artículos Recientes
 - ✍️ [Cómo nos pueden engañar con los datos: técnicas de manipulación visual y estadística](https://www.linkedin.com/pulse/cómo-nos-pueden-engañar-con-los-datos-técnicas-de-y-palomino-luna-qkhuf/)
+- 🔐 [CyberShield: Sistema de Ciberdefensa Inteligente y Modular](https://doi.org/10.5281/zenodo.17215454)
 - 📖 Más en camino...
+
 
 ---
 
